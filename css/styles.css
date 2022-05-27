@@ -4,7 +4,6 @@ body {
 
 h1 {
   text-align: center;
-
 }
 
 h2 { 
@@ -47,8 +46,7 @@ img {
   border-width: 10px;
   border-style: solid;
   box-sizing: border-box;
-  padding: 1%;
-  
+  padding: 1%; 
 }
 
 .Projects {
