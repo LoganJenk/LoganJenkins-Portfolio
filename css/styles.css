@@ -8,18 +8,27 @@ h1 {
 
 h2 { 
   text-align: center;
+  margin-bottom: 100px;
 }
 
 .paragraph {
+  float: right;
+  width: 400px;
   color: rgb(0, 0, 0);
   background-color: rgb(169, 169, 169);
   border-color: black;
   border: 10px;
   border-style: solid;
+  box-sizing: border-box;
+  padding: 10px;
+  padding-right: 70px;
+  padding-left: 0.5px;
+  margin-left: 20px;
 }
 
 
 img {
+  margin-left: 20px;
   display: block;
   float: left;
   width: 400px;
@@ -28,7 +37,6 @@ img {
   border-style: solid;
   box-sizing: border-box;
   padding: 1%;
-  margin-right: 25px;
   
 }
 
