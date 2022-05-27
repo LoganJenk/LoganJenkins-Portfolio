@@ -54,7 +54,7 @@ img {
 .Projects {
   float: left;
   background-color: rgb(61, 110, 61);
-  color: darkgoldenrod;
+  color: rgb(235, 220, 220);
   text-align: left;
   border: black;
   border-style: solid;
@@ -63,5 +63,6 @@ img {
   margin-right: 20px;
   margin-top: 20px;
   margin-left: 20px;
+  margin-bottom: 75px;
   width: 340px;
 }
