@@ -13,7 +13,7 @@
 This website was built for a portfolio landing page with HTML, and CSS Styling, using the knowledge we learned in week 1 of Epicodus Bootcamp.
 
 ## Setup & Installation Requirements
-* git clone **repository link**, to your local machine
+* git clone **https://github.com/LoganJenk/LoganJenkins-Portfolio**, to your local machine
 * open the index.html file in your browser 
 
 ## Known Bugs
